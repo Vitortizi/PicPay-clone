@@ -9,7 +9,7 @@ import Navigation from './Navigation';
 export default function navinext() {
     return (
         <NavigationContainer>
-            <StatusBar barStyle="light-content" backgroundColor="#131418" />
+            <StatusBar barStyle="light-content" backgroundColor="#000" />
             <Navigation />
         </NavigationContainer>
     );
